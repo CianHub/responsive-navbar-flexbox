@@ -29,10 +29,13 @@ a:hover {
         justify-content: space-around;
         flex-direction: column;
         align-items: center;
+        background: #34495e;
+
 
     }
 
     a {
         font-size: 20px;
+        color: white;
     }
 }
